@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1578588472 source:c:\users\abdelaziz\desktop\projet final informatique\projet final informatique\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+
+1575747303 source:c:\users\abdelaziz\desktop\projet final informatique\projet final informatique\cartecolorepiocheetplateau.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+
+1575759234 source:c:\users\abdelaziz\desktop\projet final informatique\projet final informatique\coupvalide.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+
+1575829110 source:c:\users\abdelaziz\desktop\projet final informatique\projet final informatique\initialisationdepartie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+
+1575761653 source:c:\users\abdelaziz\desktop\projet final informatique\projet final informatique\leschoix.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+
+1575835219 source:c:\users\abdelaziz\desktop\projet final informatique\projet final informatique\lesechanges.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+
+1575747304 source:c:\users\abdelaziz\desktop\projet final informatique\projet final informatique\mainaprescoup.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+
+1575747303 source:c:\users\abdelaziz\desktop\projet final informatique\projet final informatique\nbrdecoupvalide.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+
+1575747303 source:c:\users\abdelaziz\desktop\projet final informatique\projet final informatique\nbrtuilesvalide.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+
+1575747303 source:c:\users\abdelaziz\desktop\projet final informatique\projet final informatique\nouveaudecketmain.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+
+1575747303 source:c:\users\abdelaziz\desktop\projet final informatique\projet final informatique\pointaprescoup.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+
+1575747304 source:c:\users\abdelaziz\desktop\projet final informatique\projet final informatique\rotationetaffichageligneplateau.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+
+1575747303 source:c:\users\abdelaziz\desktop\projet final informatique\projet final informatique\texteregle.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+
+1575816698 source:c:\users\abdelaziz\desktop\projet final informatique\projet final informatique\affichagegagnant.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+
+1575830628 source:c:\users\abdelaziz\desktop\projet final informatique\projet final informatique\lasauvegarde.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+
+1578588472 source:c:\users\abdelaziz\desktop\informatique\avant allegro\projet qwirkle\projet final informatique\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+
